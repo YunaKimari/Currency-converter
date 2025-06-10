@@ -1,0 +1,4 @@
+com\conversor\App.class
+com\conversor\ConversorDeMoedas.class
+com\conversor\RespostaCambio.class
+com\conversor\TaxasDeCambio.class
