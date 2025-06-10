@@ -1,0 +1,14 @@
+# Ignore Maven build directory
+/target/
+
+# Ignore IDE configuration files
+*.iml
+.idea/
+.vscode/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
