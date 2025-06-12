@@ -13,12 +13,12 @@ visualizar os valores, e o programa exibe a conversão de forma clara e precisa.
 - Interface via terminal com mensagens amigáveis.
 
 ## 📁 Estrutura do projeto
-- ConversorDeMoedas.java: Classe principal.
-- TaxasDeCambio.java: Faz a comunicação com a API externa.
-- RespostaCambio.java: Classe auxiliar usada para mapear a estrutura da resposta da API.
-- pom.xml: Arquivo de configuração do Maven.
-- .gitignore: Arquivos/pastas ignorados pelo Git.
-- README.md: Este arquivo (em português e em inglês).
+- `ConversorDeMoedas.java`: Classe principal.
+- `TaxasDeCambio.java`: Faz a comunicação com a API externa.
+- `RespostaCambio.java`: Classe auxiliar usada para mapear a estrutura da resposta da API.
+- `pom.xml`: Arquivo de configuração do Maven.
+- `.gitignore`: Arquivos/pastas ignorados pelo Git.
+- `README.md`: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
@@ -63,12 +63,12 @@ This is a command-line currency converter written in Java. It uses an external A
 - User-friendly terminal interface.
 
 ## 📁 Project structure
-- ConversorDeMoedas.java: Main class.
-- TaxasDeCambio.java: Communicates with the external API.
-- RespostaCambio.java: Helper class used to map the structure of the API response.
-- pom.xml: Maven build configuration.
-- .gitignore: Git ignored files/folders.
-- README.md: This file (in Portuguese and in English).
+- `ConversorDeMoedas.java`: Main class.
+- `TaxasDeCambio.java`: Communicates with the external API.
+- `RespostaCambio.java`: Helper class used to map the structure of the API response.
+- `pom.xml`: Maven build configuration.
+- `.gitignore`: Git ignored files/folders.
+- `README.md`: This file (in both Portuguese and English)
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
