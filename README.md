@@ -68,7 +68,7 @@ This is a command-line currency converter written in Java. It uses an external A
 - `RespostaCambio.java`: Helper class used to map the structure of the API response.
 - `pom.xml`: Maven build configuration.
 - `.gitignore`: Git ignored files/folders.
-- `README.md`: This file (in both Portuguese and English)
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
