@@ -1,4 +1,6 @@
-## Conversor de Moedas ![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven)
+## Conversor de Moedas 
+![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven) ![XML](https://img.shields.io/badge/XML-Data%20Format-orange)
+
 Um conversor de moedas simples e interativo com taxas reais.
 
 ## 🎮 Sobre o projeto
@@ -50,7 +52,9 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Currency Converter ![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven)
+## Currency Converter 
+![Java 17](https://img.shields.io/badge/Java-17-red?logo=java) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?logo=apachemaven) ![XML](https://img.shields.io/badge/XML-Data%20Format-orange)
+
 A simple and interactive currency converter using real-time exchange rates.
 
 ## 🎮 About the project
